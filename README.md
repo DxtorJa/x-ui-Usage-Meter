@@ -23,6 +23,11 @@ X - UI VPN USER Data Usage Checker Dashboard with Nodejs Back end and App smith 
 
 ![Logo](https://github.com/DxtorJa/x-ui-Usage-Meter/blob/main/images/Screenshot%202023-10-27%20091415.png)
 
+## Demo
+
+https://app.itsnooblk.xyz/app/usage-meter/home-65390b9bad22f34203c144ba?embed=true
+
+
 
 
 
